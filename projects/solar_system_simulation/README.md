@@ -3,7 +3,8 @@
 This project models and animates a solar system using object-oriented programming and Turtle graphics.
 
 ## Files
-- `solar_system_simulation.ipynb` - main notebook
+- `solar_system_simulation.ipynb` - main notebook for demo
+- `solar_system_simulation.py` - main script to just run
 - `planet_class.py` - Planet class
 - `sun_class.py` - Sun class
 - `solar_system_class.py` - SolarSystem class
