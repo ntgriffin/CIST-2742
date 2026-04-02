@@ -1,4 +1,4 @@
-# CIST-2742 - Beginning Python Programming
+# CIST-2742: Beginning Python Programming
 ## Instructor: Nicholas Tanner Griffin  
 
 ---
